@@ -7,4 +7,4 @@
 - ⚡ Fun fact: ...
 -
 -
-- ![Image Alt](image_urlhttps://github.com/vic1000g/Repository/blob/main/RobloxScreenShot20241216_181234325.png?raw=true).
+- ![Image Alt](https://raw.githubusercontent.com/vic1000g/Repository/adbe626819b7eabdcaf975924b1089dbe12ec4e2/pexels-kellie-churchman-371878-1001682.jpg).
